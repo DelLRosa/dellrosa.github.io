@@ -1,0 +1,88 @@
+body{
+    background-image: url(./Resources/HD-wallpaper-closeup-view-of-green-plant-leaves-green-aesthetic.jpg);
+}
+h1{
+    font-size:35px;
+    font-weight: 700;
+    font-family: "Josefin Sans", sans-serif;
+    color: #33691e
+}
+h2{
+    color:#33691e
+    font-size 26px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 500;
+    text-decoration: underline;
+}
+h3 {
+    font-size: 20px;
+    text-decoration: underline;
+}
+li {
+    font-size: 18px;
+    font-family: "Yanone Kaffeesatz", sans-serif;
+    font-weight: 400;
+    margin-top: 5px;
+}
+ul {
+    list-style: none;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.banner{
+    margin:10px 50px;
+    padding:20px 50px;
+    background-color: #fffff6;
+    border-radius: 5px;
+    border: #c5e1a5 solid 2px;
+    text-decoration: underline;
+}
+.section-body{
+    border:#c5e1a5 solid 2px;
+    padding: 10px;
+    margin:10px 100px;
+    border-radius: 5px;
+    background-color: #fffff6;
+}
+.color-list li{
+    display:inline-block;
+    height: 75px;
+    width: 250px;
+    padding-top: 45px;
+    margin: 3px;
+    text-align: center;
+}
+.primary{
+    background-color: #33691e;
+    color:#fffff6
+}
+.secondary {
+    background-color: #c5e1a5;
+}
+.tertiary {
+    background-color: #fdd835;
+}
+.background{
+    background-color: #fffff6;
+    border:#c5e1a5 1px solid;
+}
+.JS-list{
+    font-family: "Josefin Sans", sans-serif;
+}
+.YK-list{
+    font-family: "Yanone Kaffeesatz", sans-serif;
+}
+.YK-list, .JS-list {
+    display: inline-block;
+    width: 400px;
+    padding:5px;
+    margin-left: 100px;
+    list-style: none;
+}
+.bold{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
